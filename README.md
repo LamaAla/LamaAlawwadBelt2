@@ -1,45 +1,47 @@
 ---
-# Lama-Alawwad
+# YOUR-NAME (eg. Chandra Arya)
 YOUR-introduction
-Computer Scientist, Software and DevOps engineer.
+Eg. Software and DevOps engineer, Cloud architect, Instructor.
 
 <div id="webaddress">
-<a href="LamaAlawwad@gmail.com">LamaAlawwad@gmail.com</a>
-
+<a href="chandradeoarya@gmail.com">chandradeoarya@gmail.com</a>
+| <a href="http://chandradeoarya.com">My Tech blog</a>
 </div>
 
 
 ## Currently
 YOUR-JOB/STUDY
-DevOps Engineer trainee 
+Lead DevOps instructor at Coding Dojo
 
+### Specialized in
+
+AWS Cloud, Linux, AWS cloud & services, SDLC, Iac, git, ansible, jenkins, monitoring, docker , k8s, DevSecOps, build tools, distributed systems s
 
 
 
 ## Education
 
-Princess Nora University
+NAME of your Uni
 
 
 
 ## Awards
 
-Top 5 winning project in computer science depatment
-
+LIST of award
 
 
 
 ## Publications
 
-
+Gait analysis based human recognition system `April 2016`
 
 ## Occupation
 YOUR-job/study
-`SDA` — DevOps Engineer Trainee
+`Codingdojo` — Lead DevOps Cloud instructor
 
 ## Projects
 
-Neurocomputing approach to face recognition
+ANY project
 
 <!-- ### Footer
 
